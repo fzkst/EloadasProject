@@ -37,8 +37,7 @@
                         break;
                 }
                     
-            } //while (siker == true); //|| szamlalo == Foglalasok.GetLength(0) * Foglalasok.GetLength(1));
-                                
+            }
             return siker;
         }
 
@@ -123,22 +122,6 @@
 
     }
 
-    //namespace EloadasProject
-    //{
-    //    public class Eloadas
-    //    {
-    //        private bool[,] foglalasok;
 
-    //        public Eloadas(int sorokSzama, int helyekSzama)
-    //        {
-    //            this.foglalasok = new bool[sorokSzama, helyekSzama];
-    //        }
-    //    }
-    //}
-
-
-    //for (int k = 0; k<odds.GetLength(0); k++)
-    //for (int l = 0; l<odds.GetLength(1); l++)
-    //    var val = odds[k, l];
 
 }
